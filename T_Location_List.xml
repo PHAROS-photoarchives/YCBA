@@ -1,0 +1,4771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="T_Location_List.xsd" generated="2017-01-20T12:37:38">
+<T_Location_List>
+<Location_Id>1</Location_Id>
+<CountOfLocation>0</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>2</Location_Id>
+<Location>Aber</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>3</Location_Id>
+<Location>Aberystwyth</Location>
+<CountOfLocation>68</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>4</Location_Id>
+<Location>Adelaide, Australia</Location>
+<CountOfLocation>13</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>5</Location_Id>
+<Location>Airlie Castle</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>6</Location_Id>
+<Location>Akron, OH</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>7</Location_Id>
+<Location>Albany, NY</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>8</Location_Id>
+<Location>Albuquerque, NM</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>9</Location_Id>
+<Location>Aldourie, Inverness</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>10</Location_Id>
+<Location>Allentown, PA</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>11</Location_Id>
+<Location>Alnwick</Location>
+<CountOfLocation>54</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>12</Location_Id>
+<Location>Althorp</Location>
+<CountOfLocation>97</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>13</Location_Id>
+<Location>Althrop</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>14</Location_Id>
+<Location>Amherst, MA</Location>
+<CountOfLocation>72</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>15</Location_Id>
+<Location>Amsterdam</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>16</Location_Id>
+<Location>Andover, MA</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>17</Location_Id>
+<Location>Angers</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>18</Location_Id>
+<Location>Anglesey Abbey, Cambs</Location>
+<CountOfLocation>110</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>19</Location_Id>
+<Location>Ann Arbor, MI</Location>
+<CountOfLocation>89</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>20</Location_Id>
+<Location>Annesley Park, Notts</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>965</Location_Id>
+<Location>Antony Hall, Cornwall</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>21</Location_Id>
+<Location>Apley Park</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>883</Location_Id>
+<Location>Arbroath, Tayside</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>884</Location_Id>
+<Location>Arbroath, Tayside, Scotland</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>880</Location_Id>
+<Location>Ardblair Castle, Perth</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>22</Location_Id>
+<Location>Arden Hall, Yorks</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>23</Location_Id>
+<Location>Arundel Castle</Location>
+<CountOfLocation>244</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>24</Location_Id>
+<Location>Ascott</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>25</Location_Id>
+<Location>Ashdown House</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>932</Location_Id>
+<Location>Athboy, Co. Meath</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>26</Location_Id>
+<Location>Athens, GA</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>27</Location_Id>
+<Location>Athens, Greece</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>28</Location_Id>
+<Location>Atlanta, GA</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>975</Location_Id>
+<Location>Attingham Park</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>29</Location_Id>
+<Location>Aubrey House</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>30</Location_Id>
+<Location>Auchindoune, Nairn</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>31</Location_Id>
+<Location>Auckland, New Zealand</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>32</Location_Id>
+<Location>Austin, TX</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>33</Location_Id>
+<Location>Australia</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>918</Location_Id>
+<Location>Austria</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>34</Location_Id>
+<Location>Aylesbury</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>35</Location_Id>
+<Location>Aynho, Northants</Location>
+<CountOfLocation>26</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>36</Location_Id>
+<Location>Badminton House, Glos</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>37</Location_Id>
+<Location>Balcarres, Colinsburgh</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>38</Location_Id>
+<Location>Baltimore, MD</Location>
+<CountOfLocation>187</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>892</Location_Id>
+<Location>Banffshire, Scotland</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>39</Location_Id>
+<Location>Barlaston</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>40</Location_Id>
+<Location>Barnard Castle</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>41</Location_Id>
+<Location>Barnsley Park</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>42</Location_Id>
+<Location>Barnstaple</Location>
+<CountOfLocation>42</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>43</Location_Id>
+<Location>Barrow Gurney</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>44</Location_Id>
+<Location>Barton House, Exeter</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>45</Location_Id>
+<Location>Basel</Location>
+<CountOfLocation>22</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>973</Location_Id>
+<Location>Bath</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>46</Location_Id>
+<Location>Bath House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>47</Location_Id>
+<Location>Bath, Avon</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>48</Location_Id>
+<Location>Baton Rouge, LA</Location>
+<CountOfLocation>24</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>49</Location_Id>
+<Location>Batsford Park, Glos</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>50</Location_Id>
+<Location>Battersea</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>51</Location_Id>
+<Location>Bayham Abbey, Kent</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>52</Location_Id>
+<Location>Bayonne</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>53</Location_Id>
+<Location>Beaufront Castle</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>54</Location_Id>
+<Location>Bedford</Location>
+<CountOfLocation>139</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>55</Location_Id>
+<Location>Beirut</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>56</Location_Id>
+<Location>Bel Au Vent, Jersey</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>57</Location_Id>
+<Location>Belfast</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>58</Location_Id>
+<Location>Belton House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>59</Location_Id>
+<Location>Belton House, Lincs</Location>
+<CountOfLocation>13</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>60</Location_Id>
+<Location>Belvoir Castle</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>61</Location_Id>
+<Location>Bergh Apton, Norfolk</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>62</Location_Id>
+<Location>Berkeley Castle, Glos</Location>
+<CountOfLocation>100</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>63</Location_Id>
+<Location>Berkeley, CA</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>64</Location_Id>
+<Location>Berks</Location>
+<CountOfLocation>33</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>65</Location_Id>
+<Location>Berlin</Location>
+<CountOfLocation>30</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>878</Location_Id>
+<Location>Berwick-upon-Tweed, Scotland</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>66</Location_Id>
+<Location>Besancon</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>67</Location_Id>
+<Location>Bethlehem, PA</Location>
+<CountOfLocation>13</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>68</Location_Id>
+<Location>Betws-y-Coed</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>69</Location_Id>
+<Location>Beverley</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>70</Location_Id>
+<Location>Beverley Hills, CA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>71</Location_Id>
+<Location>Beverly Hills, CA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>72</Location_Id>
+<Location>Biggar</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>73</Location_Id>
+<Location>Biggleswade, Beds</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>74</Location_Id>
+<Location>Bignor Park, Pulborough</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>75</Location_Id>
+<Location>Binghamton, NY</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>76</Location_Id>
+<Location>Binns, Linlithgow</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>77</Location_Id>
+<Location>Birdsall House, Yorks</Location>
+<CountOfLocation>62</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>78</Location_Id>
+<Location>Birkenhead</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>79</Location_Id>
+<Location>Birmingham</Location>
+<CountOfLocation>46</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>80</Location_Id>
+<Location>Birmingham, AL</Location>
+<CountOfLocation>28</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>81</Location_Id>
+<Location>Bishop&apos;s Chapel, Durham</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>82</Location_Id>
+<Location>Bishop&apos;s Palace, Hereford</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>920</Location_Id>
+<Location>Blair Castle</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>83</Location_Id>
+<Location>Blairadam, Fife</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>84</Location_Id>
+<Location>Blairgowrie, Perth</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>85</Location_Id>
+<Location>Blairquhan, Straiton, Ayrshire</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>945</Location_Id>
+<Location>Blandsford, Portlaoise, Laoise</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>86</Location_Id>
+<Location>Blanefield</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>977</Location_Id>
+<Location>Bledlow</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>87</Location_Id>
+<Location>Blenheim Palace</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>88</Location_Id>
+<Location>Bletchingley, Surrey</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>89</Location_Id>
+<Location>Blickling Hall, Norfolk</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>90</Location_Id>
+<Location>Bloomfield Hills, MI</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>91</Location_Id>
+<Location>Bloomington, IN</Location>
+<CountOfLocation>38</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>92</Location_Id>
+<Location>Bodorgan, Anglesey</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>956</Location_Id>
+<Location>Bodrhyddan, North Wales</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>93</Location_Id>
+<Location>Bologna</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>94</Location_Id>
+<Location>Bolton Hall, Yorks</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>95</Location_Id>
+<Location>Bolton, Lancs</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>96</Location_Id>
+<Location>Boston, MA</Location>
+<CountOfLocation>502</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>97</Location_Id>
+<Location>Bournemouth</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>98</Location_Id>
+<Location>Bowhill, Selk</Location>
+<CountOfLocation>22</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>99</Location_Id>
+<Location>Bowood House, Wilts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>100</Location_Id>
+<Location>Boxted House</Location>
+<CountOfLocation>49</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>101</Location_Id>
+<Location>Bradford</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>102</Location_Id>
+<Location>Bradford, Earl of</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>103</Location_Id>
+<Location>Bramham Park, Yorks</Location>
+<CountOfLocation>23</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>104</Location_Id>
+<Location>Brechin Castle, Scotland</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>105</Location_Id>
+<Location>Bremen</Location>
+<CountOfLocation>37</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>106</Location_Id>
+<Location>Brentford</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>107</Location_Id>
+<Location>Bridgewater, NJ</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>108</Location_Id>
+<Location>Bridlington, Humberside</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>109</Location_Id>
+<Location>Brighouse</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>110</Location_Id>
+<Location>Brighton</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>111</Location_Id>
+<Location>Bristol</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>112</Location_Id>
+<Location>Brocklesby Park, Lincs</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>113</Location_Id>
+<Location>Bromleigh, Brampton, Hunts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>114</Location_Id>
+<Location>Brooklyn, NY</Location>
+<CountOfLocation>45</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>115</Location_Id>
+<Location>Broomhall, Fife</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>116</Location_Id>
+<Location>Broughty Ferry</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>117</Location_Id>
+<Location>Browsholme Hall, Bowland</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>118</Location_Id>
+<Location>Bruern Abbey</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>119</Location_Id>
+<Location>Brunswick, ME</Location>
+<CountOfLocation>48</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>120</Location_Id>
+<Location>Brussels</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>936</Location_Id>
+<Location>Bryansford, Co. Down</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>121</Location_Id>
+<Location>Bucharest</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>122</Location_Id>
+<Location>Bucks</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>123</Location_Id>
+<Location>Budapest</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>124</Location_Id>
+<Location>Buffalo, NY</Location>
+<CountOfLocation>22</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>125</Location_Id>
+<Location>Burghley House, Northants</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>126</Location_Id>
+<Location>Burley-on-the-Hill, Rutland</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>127</Location_Id>
+<Location>Burlington, VT</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>128</Location_Id>
+<Location>Burnley</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>129</Location_Id>
+<Location>Burton Agnes Hall</Location>
+<CountOfLocation>32</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>899</Location_Id>
+<Location>Burton Constable</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>130</Location_Id>
+<Location>Burwarton, Salop</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>131</Location_Id>
+<Location>Bury</Location>
+<CountOfLocation>58</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>132</Location_Id>
+<Location>Bury St. Edmunds, Suffolk</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>133</Location_Id>
+<Location>Buscot Park, Oxon</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>134</Location_Id>
+<Location>Bywell Hall, Northumb</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>135</Location_Id>
+<Location>Cadland Manor, Fawley, Hants</Location>
+<CountOfLocation>84</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>136</Location_Id>
+<Location>Calcutta</Location>
+<CountOfLocation>229</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>137</Location_Id>
+<Location>Calgary, Canada</Location>
+<CountOfLocation>40</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>971</Location_Id>
+<Location>California</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>138</Location_Id>
+<Location>Callaly Castle</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>139</Location_Id>
+<Location>Cambo, Northumberland</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>140</Location_Id>
+<Location>Cambridge</Location>
+<CountOfLocation>132</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>141</Location_Id>
+<Location>Cambridge, MA</Location>
+<CountOfLocation>986</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>142</Location_Id>
+<Location>Cambs</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>143</Location_Id>
+<Location>Campden Hill, Kensington</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>144</Location_Id>
+<Location>Canada</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>145</Location_Id>
+<Location>Canberra, Australia</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>146</Location_Id>
+<Location>Canton, NY</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>147</Location_Id>
+<Location>Canton, OH</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>148</Location_Id>
+<Location>Cape Town</Location>
+<CountOfLocation>38</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>149</Location_Id>
+<Location>Capesthorne, Ches</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>150</Location_Id>
+<Location>Cardiff</Location>
+<CountOfLocation>26</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>151</Location_Id>
+<Location>Carlisle</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>152</Location_Id>
+<Location>Castle Ashby, Northants</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>931</Location_Id>
+<Location>Castle Coole, Co. Fermanagh</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>940</Location_Id>
+<Location>Castle Forbes, Longford</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>153</Location_Id>
+<Location>Castle Howard, Yorks</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>154</Location_Id>
+<Location>Castle Townshend, Co. Cork</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>155</Location_Id>
+<Location>Castleward</Location>
+<CountOfLocation>22</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>156</Location_Id>
+<Location>Catcombe Park, Isle of Wight</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>157</Location_Id>
+<Location>Cawdor Castle, Nairn</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>158</Location_Id>
+<Location>Cefntilla Court, Usk</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>934</Location_Id>
+<Location>Chadlington, Oxfordshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>159</Location_Id>
+<Location>Champaign, IL</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>160</Location_Id>
+<Location>Chapel Hill, NC</Location>
+<CountOfLocation>76</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>161</Location_Id>
+<Location>Charlecote Park, War</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>162</Location_Id>
+<Location>Charleston, SC</Location>
+<CountOfLocation>31</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>163</Location_Id>
+<Location>Charlotte, NC</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>164</Location_Id>
+<Location>Charlottesville, VA</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>165</Location_Id>
+<Location>Chatsworth, Derbys</Location>
+<CountOfLocation>713</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>166</Location_Id>
+<Location>Chelmsford, Essex</Location>
+<CountOfLocation>127</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>908</Location_Id>
+<Location>Chelsea</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>167</Location_Id>
+<Location>Chequers</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>168</Location_Id>
+<Location>Cherry Valley, CA</Location>
+<CountOfLocation>13</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>169</Location_Id>
+<Location>Ches</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>170</Location_Id>
+<Location>Chester</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>171</Location_Id>
+<Location>Chester, PA</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>172</Location_Id>
+<Location>Chestnut Hill, MA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>173</Location_Id>
+<Location>Chevening House</Location>
+<CountOfLocation>36</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>174</Location_Id>
+<Location>Chewton House, Chewton Mendip</Location>
+<CountOfLocation>55</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>175</Location_Id>
+<Location>Chicago, IL</Location>
+<CountOfLocation>163</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>176</Location_Id>
+<Location>Chicester, Sussex</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>177</Location_Id>
+<Location>Chillingham Castle, Northumb</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>178</Location_Id>
+<Location>Chillington Hall, Staffs</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>179</Location_Id>
+<Location>Chilton, Bucks</Location>
+<CountOfLocation>13</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>180</Location_Id>
+<Location>Chinnor</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>181</Location_Id>
+<Location>Chirk Castle</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>182</Location_Id>
+<Location>Christchurch, Devon</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>183</Location_Id>
+<Location>Cincinnati, OH</Location>
+<CountOfLocation>159</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>184</Location_Id>
+<Location>Cirencester Park, Glos</Location>
+<CountOfLocation>68</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>185</Location_Id>
+<Location>Clandon Park</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>186</Location_Id>
+<Location>Claremont House, Cla</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>187</Location_Id>
+<Location>Clarendon Park</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>188</Location_Id>
+<Location>Cleveland, OH</Location>
+<CountOfLocation>315</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>189</Location_Id>
+<Location>Cliff House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>190</Location_Id>
+<Location>Cliveden</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>191</Location_Id>
+<Location>Clock Mill, Clifford, Herefs</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>192</Location_Id>
+<Location>Clwyd</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>924</Location_Id>
+<Location>Cody, Wyoming</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>193</Location_Id>
+<Location>Colchester</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>194</Location_Id>
+<Location>Collegeville, PA</Location>
+<CountOfLocation>133</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>195</Location_Id>
+<Location>Colorado Springs, CO</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>196</Location_Id>
+<Location>Columbia, MO</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>197</Location_Id>
+<Location>Columbia, SC</Location>
+<CountOfLocation>27</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>198</Location_Id>
+<Location>Columbus, GA</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>199</Location_Id>
+<Location>Columbus, OH</Location>
+<CountOfLocation>49</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>200</Location_Id>
+<Location>Compton, Sussex</Location>
+<CountOfLocation>24</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>925</Location_Id>
+<Location>Cookham</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>201</Location_Id>
+<Location>Cooperstown, NY</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>202</Location_Id>
+<Location>Copenhagen</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>203</Location_Id>
+<Location>Coral Gables, FL</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>204</Location_Id>
+<Location>Cork</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>205</Location_Id>
+<Location>Cornwall</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>206</Location_Id>
+<Location>Corsham Court, Wilts</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>207</Location_Id>
+<Location>Cortachy Castle</Location>
+<CountOfLocation>33</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>208</Location_Id>
+<Location>Cottesbrooke Hall, Northants</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>209</Location_Id>
+<Location>Cottisford House, Northants</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>210</Location_Id>
+<Location>Courteenhall, Northants</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>211</Location_Id>
+<Location>Cowdray Park, Midhurst</Location>
+<CountOfLocation>41</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>212</Location_Id>
+<Location>Cradley</Location>
+<CountOfLocation>23</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>213</Location_Id>
+<Location>Crarae Lodge, Arg</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>903</Location_Id>
+<Location>Crewkerne</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>214</Location_Id>
+<Location>Cullen House, Banff</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>215</Location_Id>
+<Location>Culzean Castle</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>216</Location_Id>
+<Location>Cumbers House, Salop</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>952</Location_Id>
+<Location>Dalemain, Cumbria</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>923</Location_Id>
+<Location>Dalemain, Penrith</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>217</Location_Id>
+<Location>Dalkeith</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>218</Location_Id>
+<Location>Dallas, TX</Location>
+<CountOfLocation>29</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>219</Location_Id>
+<Location>Dalmeny House, Lothian</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>220</Location_Id>
+<Location>Darmstadt</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>221</Location_Id>
+<Location>Darnaway Castle, Moray</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>222</Location_Id>
+<Location>Davenport, IA</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>223</Location_Id>
+<Location>Dayton, OH</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>224</Location_Id>
+<Location>DC</Location>
+<CountOfLocation>973</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>225</Location_Id>
+<Location>Deal, Kent</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>226</Location_Id>
+<Location>Decatur, GA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>227</Location_Id>
+<Location>Denver, CO</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>228</Location_Id>
+<Location>Derby</Location>
+<CountOfLocation>37</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>229</Location_Id>
+<Location>Detroit, MI</Location>
+<CountOfLocation>204</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>230</Location_Id>
+<Location>Devon</Location>
+<CountOfLocation>27</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>962</Location_Id>
+<Location>Ditchingham Hall, Suffolk</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>231</Location_Id>
+<Location>Ditchley</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>232</Location_Id>
+<Location>Doddington Hall, Lincolns</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>233</Location_Id>
+<Location>Dorchester</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>981</Location_Id>
+<Location>Dorset</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>958</Location_Id>
+<Location>Dove Cottage, Grasmere</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>234</Location_Id>
+<Location>Dover, Kent</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>235</Location_Id>
+<Location>Downham Hall, Lancs</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>236</Location_Id>
+<Location>Downton Castle, Herefs</Location>
+<CountOfLocation>22</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>237</Location_Id>
+<Location>Drayton</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>238</Location_Id>
+<Location>Dresden</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>891</Location_Id>
+<Location>Drummuir Castle</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>239</Location_Id>
+<Location>Dublin</Location>
+<CountOfLocation>142</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>240</Location_Id>
+<Location>Duluth, MN</Location>
+<CountOfLocation>23</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>241</Location_Id>
+<Location>Dulwich</Location>
+<CountOfLocation>108</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>242</Location_Id>
+<Location>Dundee</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>243</Location_Id>
+<Location>Dunecht, Aber</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>244</Location_Id>
+<Location>Dunedin, NZ</Location>
+<CountOfLocation>100</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>905</Location_Id>
+<Location>Dunham Massey</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>245</Location_Id>
+<Location>Dunrobin Castle, Suth</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>246</Location_Id>
+<Location>Dunvegan Castle, Isle of Skye</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>247</Location_Id>
+<Location>Dunwoody, GA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>961</Location_Id>
+<Location>Durban</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>248</Location_Id>
+<Location>Durham</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>249</Location_Id>
+<Location>Durham, NC</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>250</Location_Id>
+<Location>Durham, NH</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>251</Location_Id>
+<Location>Dusseldorf</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>252</Location_Id>
+<Location>Duxbury, MA</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>253</Location_Id>
+<Location>Dyrham Park, Glos</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>254</Location_Id>
+<Location>East Anglia</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>255</Location_Id>
+<Location>East Bergholt, Suffolk</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>968</Location_Id>
+<Location>East Cowes, Isle of Wight</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>256</Location_Id>
+<Location>East Lansing, MI</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>257</Location_Id>
+<Location>Eastbourne</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>258</Location_Id>
+<Location>Eastnor Castle</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>259</Location_Id>
+<Location>Easton Neston, Northants</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>260</Location_Id>
+<Location>Easton, PA</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>261</Location_Id>
+<Location>Ecton Hall, Northants</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>262</Location_Id>
+<Location>Edenton, NC</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>263</Location_Id>
+<Location>Edinburgh</Location>
+<CountOfLocation>1762</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>264</Location_Id>
+<Location>Edmonton</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>265</Location_Id>
+<Location>Egginton House, Beds</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>266</Location_Id>
+<Location>Egham Hill, Surrey</Location>
+<CountOfLocation>66</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>267</Location_Id>
+<Location>Eildon Hall, Rox</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>268</Location_Id>
+<Location>Elmira, NY</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>269</Location_Id>
+<Location>Elton Hall, Elton, Cambs</Location>
+<CountOfLocation>79</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>270</Location_Id>
+<Location>Elvetham Hall, Hants</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>271</Location_Id>
+<Location>Ely</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>272</Location_Id>
+<Location>Enfield</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>273</Location_Id>
+<Location>Enschede</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>274</Location_Id>
+<Location>Erddig, Clwyd</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>275</Location_Id>
+<Location>Essen, Germany</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>276</Location_Id>
+<Location>Essex</Location>
+<CountOfLocation>20</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>277</Location_Id>
+<Location>Essex, CT</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>278</Location_Id>
+<Location>Eton</Location>
+<CountOfLocation>508</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>279</Location_Id>
+<Location>Euston Hall, Suffolk</Location>
+<CountOfLocation>35</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>280</Location_Id>
+<Location>Evanston, IL</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>281</Location_Id>
+<Location>Evansville, IN</Location>
+<CountOfLocation>27</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>282</Location_Id>
+<Location>Exeter, Devon</Location>
+<CountOfLocation>52</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>283</Location_Id>
+<Location>Exeter, NH</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>284</Location_Id>
+<Location>Falkland Palace, Fife</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>285</Location_Id>
+<Location>Fallodon Hall, Northumb</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>948</Location_Id>
+<Location>Farley Hill, Berkshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>286</Location_Id>
+<Location>Farmington, CT</Location>
+<CountOfLocation>157</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>972</Location_Id>
+<Location>Farnham</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>287</Location_Id>
+<Location>Felbrigg Church, Norfolk</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>942</Location_Id>
+<Location>Fermoy, Cork</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>288</Location_Id>
+<Location>Firle Place, Sussex</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>289</Location_Id>
+<Location>Fitchburg, MA</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>290</Location_Id>
+<Location>Flichity</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>291</Location_Id>
+<Location>Flint, MI</Location>
+<CountOfLocation>20</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>292</Location_Id>
+<Location>Floors Castle, Kelso</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>293</Location_Id>
+<Location>Florence</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>294</Location_Id>
+<Location>Fonmon Castle, Glam</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>938</Location_Id>
+<Location>Forenaghts, Naas, Co. Kildare</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>295</Location_Id>
+<Location>Fort Lauderdale, FL</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>296</Location_Id>
+<Location>Fort Wayne, IN</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>297</Location_Id>
+<Location>Fort Worth, TX</Location>
+<CountOfLocation>105</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>298</Location_Id>
+<Location>Fosse Hill, Glos</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>299</Location_Id>
+<Location>Foxwold, Brasted, Kent</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>300</Location_Id>
+<Location>France</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>301</Location_Id>
+<Location>Frankfurt</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>302</Location_Id>
+<Location>Fredericksburg, VA</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>303</Location_Id>
+<Location>Fredericton, Canada</Location>
+<CountOfLocation>75</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>304</Location_Id>
+<Location>Fresno, CA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>305</Location_Id>
+<Location>Fulham, London</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>306</Location_Id>
+<Location>Fursdon House, Devon</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>307</Location_Id>
+<Location>Fyvie Castle, Aber</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>308</Location_Id>
+<Location>Fyvie, Aber</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>309</Location_Id>
+<Location>Gainesville, FL</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>310</Location_Id>
+<Location>Garrison-on-Hudson, NY</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>311</Location_Id>
+<Location>Garscube House, Dumbarts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>902</Location_Id>
+<Location>Gasworth Hall, Ches</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>312</Location_Id>
+<Location>Gateshead, Durham</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>313</Location_Id>
+<Location>Gawsworth Hall, Ches</Location>
+<CountOfLocation>36</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>314</Location_Id>
+<Location>Geneva</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>315</Location_Id>
+<Location>Germantown (Memphis), TN</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>316</Location_Id>
+<Location>Germany</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>317</Location_Id>
+<Location>Glamis Castle, Scotland</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>318</Location_Id>
+<Location>Glasgow</Location>
+<CountOfLocation>364</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>319</Location_Id>
+<Location>Glebe House, Marlborough, Wilt</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>320</Location_Id>
+<Location>Gleneagles House, Perths</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>321</Location_Id>
+<Location>Glenferness, Nairn</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>322</Location_Id>
+<Location>Glens Falls, NY</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>323</Location_Id>
+<Location>Glos</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>324</Location_Id>
+<Location>Glynde Place</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>325</Location_Id>
+<Location>Glyndebourne</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>326</Location_Id>
+<Location>Godmersham Park, Kent</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>327</Location_Id>
+<Location>Goldendale, WA</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>328</Location_Id>
+<Location>Goodwood</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>329</Location_Id>
+<Location>Goodwood House, Chicester</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>330</Location_Id>
+<Location>Gorhambury, Herts</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>331</Location_Id>
+<Location>Gosford House, East Lothian</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>332</Location_Id>
+<Location>Granville, OH</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>333</Location_Id>
+<Location>Greenock</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>334</Location_Id>
+<Location>Greensburg, PA</Location>
+<CountOfLocation>26</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>335</Location_Id>
+<Location>Greenvile, SC</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>336</Location_Id>
+<Location>Greenville, SC</Location>
+<CountOfLocation>37</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>337</Location_Id>
+<Location>Greenwich</Location>
+<CountOfLocation>81</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>338</Location_Id>
+<Location>Grimsthorpe Castle, Lincs</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>339</Location_Id>
+<Location>Guildford, Surrey</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>340</Location_Id>
+<Location>Hackwood Park, Hants</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>341</Location_Id>
+<Location>Hagerstown, MD</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>342</Location_Id>
+<Location>Hagley Hall</Location>
+<CountOfLocation>100</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>343</Location_Id>
+<Location>Halifax</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>344</Location_Id>
+<Location>Halifax, Canada</Location>
+<CountOfLocation>23</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>345</Location_Id>
+<Location>Ham House</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>346</Location_Id>
+<Location>Hamburg</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>347</Location_Id>
+<Location>Hamden, CT</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>348</Location_Id>
+<Location>Hamilton, Canada</Location>
+<CountOfLocation>51</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>349</Location_Id>
+<Location>Hammersmith</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>350</Location_Id>
+<Location>Hampstead</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>351</Location_Id>
+<Location>Hampton Court</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>352</Location_Id>
+<Location>Hamstead Marshall</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>353</Location_Id>
+<Location>Hanover</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>354</Location_Id>
+<Location>Hanover, NH</Location>
+<CountOfLocation>77</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>355</Location_Id>
+<Location>Hants</Location>
+<CountOfLocation>26</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>898</Location_Id>
+<Location>Hanworth, Norfolk</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>356</Location_Id>
+<Location>Hardwick Hall</Location>
+<CountOfLocation>133</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>357</Location_Id>
+<Location>Harewood House, Yorks</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>358</Location_Id>
+<Location>Harrogate</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>359</Location_Id>
+<Location>Hartford, CT</Location>
+<CountOfLocation>77</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>360</Location_Id>
+<Location>Hartlebury Castle</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>361</Location_Id>
+<Location>Hatfield Forest</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>362</Location_Id>
+<Location>Hatfield House</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>363</Location_Id>
+<Location>Hatfield, Herts</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>928</Location_Id>
+<Location>Hawick</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>364</Location_Id>
+<Location>Heather Row Farm House, Hants</Location>
+<CountOfLocation>24</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>365</Location_Id>
+<Location>Hedenham Hall, Norfolk</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>366</Location_Id>
+<Location>Heidelberg</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>367</Location_Id>
+<Location>Helmingham Hall, Suffolk</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>368</Location_Id>
+<Location>Hempstead, NY</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>369</Location_Id>
+<Location>Henley</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>929</Location_Id>
+<Location>Hertfordshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>370</Location_Id>
+<Location>Herts</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>371</Location_Id>
+<Location>Hickory, NC</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>909</Location_Id>
+<Location>Highnam Court</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>372</Location_Id>
+<Location>Hinchingbrooke, Hants</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>373</Location_Id>
+<Location>Hinton Ampner, Hants</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>374</Location_Id>
+<Location>Hirsel, Berks</Location>
+<CountOfLocation>39</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>960</Location_Id>
+<Location>Hobart, Tasmania</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>375</Location_Id>
+<Location>Hoghton Tower, Lancs</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>376</Location_Id>
+<Location>Holker Hall</Location>
+<CountOfLocation>20</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>377</Location_Id>
+<Location>Holkham Hall, Norfolk</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>378</Location_Id>
+<Location>Holyoke, MA</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>379</Location_Id>
+<Location>Holyroodhouse</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>380</Location_Id>
+<Location>Honiton</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>381</Location_Id>
+<Location>Honolulu, HI</Location>
+<CountOfLocation>49</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>382</Location_Id>
+<Location>Hopetoun House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>383</Location_Id>
+<Location>Horsham</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>882</Location_Id>
+<Location>Hospitalfield House, Arbroath</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>881</Location_Id>
+<Location>Hospitalfield House, Tayside</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>384</Location_Id>
+<Location>Houghton Hall</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>385</Location_Id>
+<Location>Houston, TX</Location>
+<CountOfLocation>110</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>386</Location_Id>
+<Location>Hove, East Sussex</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>911</Location_Id>
+<Location>Hoveton</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>387</Location_Id>
+<Location>Hovingham Hall, Yorks</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>388</Location_Id>
+<Location>Howick Grange, Northumb</Location>
+<CountOfLocation>53</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>389</Location_Id>
+<Location>Huddersfield</Location>
+<CountOfLocation>171</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>390</Location_Id>
+<Location>Hughenden Manor</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>391</Location_Id>
+<Location>Hull</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>392</Location_Id>
+<Location>Huntington, NY</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>393</Location_Id>
+<Location>Huntington, WV</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>394</Location_Id>
+<Location>Ickworth, Suffolk</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>395</Location_Id>
+<Location>Ilk</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>396</Location_Id>
+<Location>Ilkley</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>397</Location_Id>
+<Location>Inadown House, Newton, Valence</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>398</Location_Id>
+<Location>Indianapolis, IN</Location>
+<CountOfLocation>132</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>399</Location_Id>
+<Location>Innes House, Elgin</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>400</Location_Id>
+<Location>Inveraray Castle, Scotland</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>401</Location_Id>
+<Location>Iowa City, IA</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>402</Location_Id>
+<Location>Ipswich</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>403</Location_Id>
+<Location>Ireland</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>404</Location_Id>
+<Location>Isel Castle, Cumbria</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>405</Location_Id>
+<Location>Ithaca, NY</Location>
+<CountOfLocation>64</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>406</Location_Id>
+<Location>Jackson, MI</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>407</Location_Id>
+<Location>Jacksonville, FL</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>408</Location_Id>
+<Location>Jamestown, NY</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>409</Location_Id>
+<Location>Japan</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>410</Location_Id>
+<Location>Jersey</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>411</Location_Id>
+<Location>Jersey, Channel Islands</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>412</Location_Id>
+<Location>Jerusalem</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>413</Location_Id>
+<Location>Johannesburg</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>414</Location_Id>
+<Location>Kalamazoo, MI</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>415</Location_Id>
+<Location>Kankakee, IL</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>416</Location_Id>
+<Location>Kansas City, MO</Location>
+<CountOfLocation>46</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>417</Location_Id>
+<Location>Katonah, NY</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>418</Location_Id>
+<Location>Kedleston Hall</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>419</Location_Id>
+<Location>Kedleston Hall, Derby</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>420</Location_Id>
+<Location>Keir</Location>
+<CountOfLocation>56</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>421</Location_Id>
+<Location>Kendal</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>422</Location_Id>
+<Location>Kent</Location>
+<CountOfLocation>109</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>423</Location_Id>
+<Location>Kenwood</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>424</Location_Id>
+<Location>Kettering</Location>
+<CountOfLocation>59</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>425</Location_Id>
+<Location>Kilkerran</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>426</Location_Id>
+<Location>Kilmarnock</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>427</Location_Id>
+<Location>King&apos;s Weston House, Bristol</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>428</Location_Id>
+<Location>Kings Weston, Glos</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>429</Location_Id>
+<Location>Kingston Hall, Notts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>430</Location_Id>
+<Location>Kingston Lacy</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>431</Location_Id>
+<Location>Kingston, Canada</Location>
+<CountOfLocation>33</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>432</Location_Id>
+<Location>Kingston, Ontario, Canada</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>921</Location_Id>
+<Location>Kingston-upon-Hull</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>433</Location_Id>
+<Location>Kinnaird Castle</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>434</Location_Id>
+<Location>Kintore</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>435</Location_Id>
+<Location>Kirkcaldy</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>436</Location_Id>
+<Location>Kirkdale Farm, Yorks</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>437</Location_Id>
+<Location>Kitchener, Canada</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>438</Location_Id>
+<Location>Kitely End</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>439</Location_Id>
+<Location>Knebworth House, Herts</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>440</Location_Id>
+<Location>Knole, Sevenoaks, Kent</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>441</Location_Id>
+<Location>Knowsley Hall</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>442</Location_Id>
+<Location>Knoxville, TN</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>443</Location_Id>
+<Location>Lacock Abbey</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>444</Location_Id>
+<Location>Lafayette, IN</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>445</Location_Id>
+<Location>Lafayette, LA</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>446</Location_Id>
+<Location>Lakeland, FL</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>447</Location_Id>
+<Location>Lambeth Palace</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>448</Location_Id>
+<Location>Lamport</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>955</Location_Id>
+<Location>Lancaster</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>951</Location_Id>
+<Location>Langston House, Oxfordshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>953</Location_Id>
+<Location>Lanhydrock House, Cornwall</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>967</Location_Id>
+<Location>Launceston, Australia</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>449</Location_Id>
+<Location>Laurel, MS</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>450</Location_Id>
+<Location>Lawrence, KS</Location>
+<CountOfLocation>46</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>890</Location_Id>
+<Location>Leamington Spa</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>451</Location_Id>
+<Location>Leeds</Location>
+<CountOfLocation>190</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>452</Location_Id>
+<Location>Leicester</Location>
+<CountOfLocation>44</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>453</Location_Id>
+<Location>Leics</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>454</Location_Id>
+<Location>Lennoxlove, Haddington</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>455</Location_Id>
+<Location>Leuchie House</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>879</Location_Id>
+<Location>Leuchie House, North Berw</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>969</Location_Id>
+<Location>Levens Hall, Kendal</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>950</Location_Id>
+<Location>Lewes, Sussex</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>456</Location_Id>
+<Location>Lewisham</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>457</Location_Id>
+<Location>Lewiston, ME</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>458</Location_Id>
+<Location>Lexington, KY</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>459</Location_Id>
+<Location>Lille</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>460</Location_Id>
+<Location>Lincoln</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>461</Location_Id>
+<Location>Lincoln, NE</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>462</Location_Id>
+<Location>Lincs</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>463</Location_Id>
+<Location>Lisbon, Portugal</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>464</Location_Id>
+<Location>Little Rock, AR</Location>
+<CountOfLocation>22</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>465</Location_Id>
+<Location>Liverpool</Location>
+<CountOfLocation>357</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>466</Location_Id>
+<Location>Llanfihangel Court, Mon</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>467</Location_Id>
+<Location>Lochinch Castle, Wig</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>954</Location_Id>
+<Location>Locko Park, Derbyshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>468</Location_Id>
+<Location>London</Location>
+<CountOfLocation>8350</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>469</Location_Id>
+<Location>Longford Castle, Wilts</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>470</Location_Id>
+<Location>Longleat, Wilts</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>471</Location_Id>
+<Location>Longstowe</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>472</Location_Id>
+<Location>Los Angeles, CA</Location>
+<CountOfLocation>178</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>473</Location_Id>
+<Location>Loseley House, Surrey</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>474</Location_Id>
+<Location>Lotherton Hall</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>475</Location_Id>
+<Location>Loton Park, Shrewsbury</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>476</Location_Id>
+<Location>Louisville, KY</Location>
+<CountOfLocation>71</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>477</Location_Id>
+<Location>Lubeck</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>478</Location_Id>
+<Location>Lulworth Manor, Dorset</Location>
+<CountOfLocation>46</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>914</Location_Id>
+<Location>Lyon</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>974</Location_Id>
+<Location>Lytham Saint Anne&apos;s</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>479</Location_Id>
+<Location>Macclesfield</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>480</Location_Id>
+<Location>Madison, WI</Location>
+<CountOfLocation>53</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>481</Location_Id>
+<Location>Madresfield Court, Malvern</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>482</Location_Id>
+<Location>Madrid</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>483</Location_Id>
+<Location>Maesderwen, Pontypool</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>484</Location_Id>
+<Location>Maidstone</Location>
+<CountOfLocation>133</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>485</Location_Id>
+<Location>Malahide Castle, Dublin</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>486</Location_Id>
+<Location>Malden, MA</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>487</Location_Id>
+<Location>Malpas, Cheshire</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>488</Location_Id>
+<Location>Manchester</Location>
+<CountOfLocation>654</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>489</Location_Id>
+<Location>Manchester, NH</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>490</Location_Id>
+<Location>Mapledurham, Oxon</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>491</Location_Id>
+<Location>Marsh Court, Stockbridge</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>492</Location_Id>
+<Location>Mauchline, Ayr</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>944</Location_Id>
+<Location>Mayfield, Sussex</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>493</Location_Id>
+<Location>Medford, MA</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>494</Location_Id>
+<Location>Meikleour, Perths</Location>
+<CountOfLocation>62</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>495</Location_Id>
+<Location>Melbourne Hall, Derby</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>496</Location_Id>
+<Location>Melbourne, Australia</Location>
+<CountOfLocation>436</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>497</Location_Id>
+<Location>Melbury House, Dorset</Location>
+<CountOfLocation>45</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>498</Location_Id>
+<Location>Memphis, TN</Location>
+<CountOfLocation>39</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>976</Location_Id>
+<Location>Mereworth, Kent</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>499</Location_Id>
+<Location>Merthyr Tydfil, Glam</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>500</Location_Id>
+<Location>Mertoun</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>501</Location_Id>
+<Location>Messing Park</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>502</Location_Id>
+<Location>Miami Beach, FL</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>503</Location_Id>
+<Location>Middleburg, VA</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>504</Location_Id>
+<Location>Middlebury, VT</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>505</Location_Id>
+<Location>Middletown, CT</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>506</Location_Id>
+<Location>Midhurst, Sussex</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>507</Location_Id>
+<Location>Milan</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>919</Location_Id>
+<Location>Milton Manor House, Oxford</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>508</Location_Id>
+<Location>Milton Park, Cambs</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>509</Location_Id>
+<Location>Milwaukee, WI</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>510</Location_Id>
+<Location>Minneapolis, MN</Location>
+<CountOfLocation>124</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>511</Location_Id>
+<Location>Mirton Hall, Notts</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>512</Location_Id>
+<Location>Mobile, AL</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>513</Location_Id>
+<Location>Mon</Location>
+<CountOfLocation>36</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>514</Location_Id>
+<Location>Montacute House, Somerset</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>515</Location_Id>
+<Location>Montclair, NJ</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>516</Location_Id>
+<Location>Monte Carlo</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>517</Location_Id>
+<Location>Montgomery, AL</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>518</Location_Id>
+<Location>Montreal, Canada</Location>
+<CountOfLocation>145</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>885</Location_Id>
+<Location>Montrose, Tayside, Scotland</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>519</Location_Id>
+<Location>Moor Park Mansion, Herts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>520</Location_Id>
+<Location>Moraga, CA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>521</Location_Id>
+<Location>Moray</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>966</Location_Id>
+<Location>Moresby Hall, Cumbria</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>522</Location_Id>
+<Location>Mostyn Hall, North Wales</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>523</Location_Id>
+<Location>Mount Edgcumbe, Plymouth</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>524</Location_Id>
+<Location>Mount Stuart, Isle of Bute</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>525</Location_Id>
+<Location>Mountainville, NY</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>526</Location_Id>
+<Location>Moyola Park, N. Ireland</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>527</Location_Id>
+<Location>Muncaster Castle, Cumbria</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>528</Location_Id>
+<Location>Muncie, IN</Location>
+<CountOfLocation>49</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>529</Location_Id>
+<Location>Munich</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>530</Location_Id>
+<Location>Muskegon, MI</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>531</Location_Id>
+<Location>Mx</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>532</Location_Id>
+<Location>Mystic, CT</Location>
+<CountOfLocation>44</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>533</Location_Id>
+<Location>Nashville, TN</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>534</Location_Id>
+<Location>National Trust</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>535</Location_Id>
+<Location>Naworth Castle, Cumbria</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>536</Location_Id>
+<Location>NC</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>537</Location_Id>
+<Location>Needwood House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>538</Location_Id>
+<Location>Neenah, WI</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>539</Location_Id>
+<Location>Nelson, NZ</Location>
+<CountOfLocation>33</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>540</Location_Id>
+<Location>Netherlands</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>541</Location_Id>
+<Location>New Bern, NC</Location>
+<CountOfLocation>24</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>542</Location_Id>
+<Location>New Brighton, PA</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>543</Location_Id>
+<Location>New Britain, CT</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>544</Location_Id>
+<Location>New Brunswick, NJ</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>979</Location_Id>
+<Location>New College, Oxford</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>545</Location_Id>
+<Location>New Haven, CT</Location>
+<CountOfLocation>5665</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>546</Location_Id>
+<Location>New London, CT</Location>
+<CountOfLocation>139</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>547</Location_Id>
+<Location>New Orleans, LA</Location>
+<CountOfLocation>71</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>548</Location_Id>
+<Location>New Sarum, Wilts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>549</Location_Id>
+<Location>New York</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>550</Location_Id>
+<Location>New York, NY</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>551</Location_Id>
+<Location>Newark, DE</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>552</Location_Id>
+<Location>Newark, NJ</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>553</Location_Id>
+<Location>Newcastle Mansion House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>554</Location_Id>
+<Location>Newcastle, Australia</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>555</Location_Id>
+<Location>Newcastle-upon-Tyne</Location>
+<CountOfLocation>137</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>556</Location_Id>
+<Location>Newhailes</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>557</Location_Id>
+<Location>Newmarket</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>558</Location_Id>
+<Location>Newnham Hall, Northants</Location>
+<CountOfLocation>45</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>559</Location_Id>
+<Location>Newport, RI</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>933</Location_Id>
+<Location>Newtownforbes, Co. Longford</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>560</Location_Id>
+<Location>Norfolk</Location>
+<CountOfLocation>42</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>561</Location_Id>
+<Location>Norfolk, VA</Location>
+<CountOfLocation>37</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>562</Location_Id>
+<Location>Northampton</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>563</Location_Id>
+<Location>Northampton, MA</Location>
+<CountOfLocation>159</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>564</Location_Id>
+<Location>Norwich</Location>
+<CountOfLocation>39</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>565</Location_Id>
+<Location>Noseley Hall, Leicester</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>566</Location_Id>
+<Location>Nostell Priory, Yorks</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>567</Location_Id>
+<Location>Notre Dame, IN</Location>
+<CountOfLocation>31</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>568</Location_Id>
+<Location>Nottingham</Location>
+<CountOfLocation>99</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>569</Location_Id>
+<Location>Notts</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>917</Location_Id>
+<Location>Nurnberg</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>570</Location_Id>
+<Location>NY</Location>
+<CountOfLocation>45</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>571</Location_Id>
+<Location>NYC</Location>
+<CountOfLocation>1780</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>572</Location_Id>
+<Location>NYC (1974)</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>573</Location_Id>
+<Location>Oakland, CA</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>574</Location_Id>
+<Location>Oakly Park, Salop</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>575</Location_Id>
+<Location>Oberlin, OH</Location>
+<CountOfLocation>42</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>576</Location_Id>
+<Location>Ogdensburg, NY</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>959</Location_Id>
+<Location>Okeover Hall, Staffordshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>577</Location_Id>
+<Location>Oklahoma City, OK</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>939</Location_Id>
+<Location>Old Town, Kildare</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>578</Location_Id>
+<Location>Old Westbury, NY</Location>
+<CountOfLocation>42</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>579</Location_Id>
+<Location>Oldham, Lancs</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>580</Location_Id>
+<Location>Omaha, NE</Location>
+<CountOfLocation>36</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>581</Location_Id>
+<Location>Orange, CA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>582</Location_Id>
+<Location>Ormeley Lodge, Richmond</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>583</Location_Id>
+<Location>Osborne House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>584</Location_Id>
+<Location>Oshkosh, WI</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>585</Location_Id>
+<Location>Oslo</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>586</Location_Id>
+<Location>Oswego, NY</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>587</Location_Id>
+<Location>Ottawa, Canada</Location>
+<CountOfLocation>634</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>588</Location_Id>
+<Location>Overbury Court</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>589</Location_Id>
+<Location>Oxford</Location>
+<CountOfLocation>376</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>590</Location_Id>
+<Location>Oxon</Location>
+<CountOfLocation>41</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>591</Location_Id>
+<Location>Packington Hall, Coventry</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>592</Location_Id>
+<Location>Pailton House, Rugby</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>593</Location_Id>
+<Location>Paisley</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>594</Location_Id>
+<Location>Palm Beach, FL</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>980</Location_Id>
+<Location>Panama City, FL</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>595</Location_Id>
+<Location>Parham</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>596</Location_Id>
+<Location>Parham Park, Sussex</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>597</Location_Id>
+<Location>Paris</Location>
+<CountOfLocation>173</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>598</Location_Id>
+<Location>Parwich Hall, Derby</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>599</Location_Id>
+<Location>Pasadena, CA</Location>
+<CountOfLocation>27</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>886</Location_Id>
+<Location>Paxton, Berwick-upon-Tweed</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>600</Location_Id>
+<Location>Pebble Hill House, Surrey</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>601</Location_Id>
+<Location>Pelham Place, Hants</Location>
+<CountOfLocation>17</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>602</Location_Id>
+<Location>Pencarrow, Cornwall</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>893</Location_Id>
+<Location>Penicuik House, Penicuik, Midl</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>603</Location_Id>
+<Location>Pennington House, Lymington, H</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>604</Location_Id>
+<Location>Penrhyn</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>605</Location_Id>
+<Location>Penrith</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>606</Location_Id>
+<Location>Penshurst Place, Kent</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>607</Location_Id>
+<Location>Perth, Australia</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>608</Location_Id>
+<Location>Perth, Scotland</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>609</Location_Id>
+<Location>Petworth House, Sussex</Location>
+<CountOfLocation>313</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>610</Location_Id>
+<Location>Philadelphia, PA</Location>
+<CountOfLocation>395</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>611</Location_Id>
+<Location>Phoenix, AZ</Location>
+<CountOfLocation>42</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>612</Location_Id>
+<Location>Pittsburgh, PA</Location>
+<CountOfLocation>177</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>613</Location_Id>
+<Location>Pittsfield, MA</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>897</Location_Id>
+<Location>Plas Newydd, Llanfairpwl</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>614</Location_Id>
+<Location>Plas Treflyn, Tregaron</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>615</Location_Id>
+<Location>Plymouth</Location>
+<CountOfLocation>88</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>616</Location_Id>
+<Location>Plymouth, MA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>617</Location_Id>
+<Location>Pollok House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>618</Location_Id>
+<Location>Ponce, PR</Location>
+<CountOfLocation>26</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>619</Location_Id>
+<Location>Port Eliot</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>620</Location_Id>
+<Location>Port Sunlight</Location>
+<CountOfLocation>100</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>621</Location_Id>
+<Location>Portland, ME</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>622</Location_Id>
+<Location>Portland, OR</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>946</Location_Id>
+<Location>Portmarnock, Dublin</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>623</Location_Id>
+<Location>Poughkeepsie, NY</Location>
+<CountOfLocation>98</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>624</Location_Id>
+<Location>Powderham Castle, Exeter</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>625</Location_Id>
+<Location>Preston</Location>
+<CountOfLocation>472</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>626</Location_Id>
+<Location>Princeton, NJ</Location>
+<CountOfLocation>362</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>904</Location_Id>
+<Location>Private Coll XXIX</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>627</Location_Id>
+<Location>Providence, RI</Location>
+<CountOfLocation>207</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>628</Location_Id>
+<Location>Provo, UT</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>629</Location_Id>
+<Location>Pulborough, Sussex</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>630</Location_Id>
+<Location>Purchase, NY</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>631</Location_Id>
+<Location>Puslinch, Yealmpton</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>632</Location_Id>
+<Location>Putteridge Bury</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>633</Location_Id>
+<Location>Pypers, Rudgeway, Glos</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>634</Location_Id>
+<Location>Quebec</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>635</Location_Id>
+<Location>Raby Castle, Darlington</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>636</Location_Id>
+<Location>Radburne Hall, Derby</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>637</Location_Id>
+<Location>Radier Manor, Longueville</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>638</Location_Id>
+<Location>Ragley Hall</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>922</Location_Id>
+<Location>Raith</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>639</Location_Id>
+<Location>Raleigh, NC</Location>
+<CountOfLocation>114</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>640</Location_Id>
+<Location>Rangemore</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>641</Location_Id>
+<Location>Rattray, Aber</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>642</Location_Id>
+<Location>Raveningham Hall, Norwich</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>643</Location_Id>
+<Location>Reading, PA</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>644</Location_Id>
+<Location>Reigate</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>645</Location_Id>
+<Location>Rempstone</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>646</Location_Id>
+<Location>Renishaw Hall, Derbyshire</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>647</Location_Id>
+<Location>Richmond</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>648</Location_Id>
+<Location>Richmond, VA</Location>
+<CountOfLocation>781</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>649</Location_Id>
+<Location>Ririd Myddelton, Wrexham</Location>
+<CountOfLocation>23</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>650</Location_Id>
+<Location>Rochdale</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>651</Location_Id>
+<Location>Rochester</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>652</Location_Id>
+<Location>Rochester, NY</Location>
+<CountOfLocation>68</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>653</Location_Id>
+<Location>Rockingham Castle</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>654</Location_Id>
+<Location>Rockingham Castle, Northant</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>655</Location_Id>
+<Location>Rockville Center, NY</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>656</Location_Id>
+<Location>Rockville, IN</Location>
+<CountOfLocation>25</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>657</Location_Id>
+<Location>Rode Hall, Ches</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>896</Location_Id>
+<Location>Rogate, Hants</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>658</Location_Id>
+<Location>Rome</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>659</Location_Id>
+<Location>Rotherfield Greys</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>660</Location_Id>
+<Location>Rotterdam</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>661</Location_Id>
+<Location>Rousham House</Location>
+<CountOfLocation>116</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>889</Location_Id>
+<Location>Roy Miles (gallery)(1980)</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>662</Location_Id>
+<Location>Rudding Park</Location>
+<CountOfLocation>32</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>663</Location_Id>
+<Location>Rugby, War</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>664</Location_Id>
+<Location>Rye, Sussex</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>665</Location_Id>
+<Location>Sacramento, CA</Location>
+<CountOfLocation>36</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>666</Location_Id>
+<Location>Saffron Walden</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>667</Location_Id>
+<Location>Saffron Walden, Essex</Location>
+<CountOfLocation>20</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>668</Location_Id>
+<Location>Salem, CT</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>669</Location_Id>
+<Location>Salford</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>912</Location_Id>
+<Location>Salisbury</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>670</Location_Id>
+<Location>Salt Lake City, UT</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>671</Location_Id>
+<Location>Saltram House</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>672</Location_Id>
+<Location>Saltwood</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>673</Location_Id>
+<Location>San Antonio, TX</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>674</Location_Id>
+<Location>San Diego, CA</Location>
+<CountOfLocation>27</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>675</Location_Id>
+<Location>San Francisco, CA</Location>
+<CountOfLocation>121</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>676</Location_Id>
+<Location>San Marino, CA</Location>
+<CountOfLocation>2580</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>677</Location_Id>
+<Location>Sandbeck Park, Rotherham</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>678</Location_Id>
+<Location>Sandon Hall, Staffs</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>679</Location_Id>
+<Location>Sanford Orcas</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>680</Location_Id>
+<Location>Santa Barbara, CA</Location>
+<CountOfLocation>114</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>681</Location_Id>
+<Location>Santa Monica, CA</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>682</Location_Id>
+<Location>Sao Paulo, Brazil</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>683</Location_Id>
+<Location>Sarasota, FL</Location>
+<CountOfLocation>38</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>684</Location_Id>
+<Location>Saratoga Springs, NY</Location>
+<CountOfLocation>23</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>685</Location_Id>
+<Location>Savannah, GA</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>686</Location_Id>
+<Location>Scampston Hall, Yorks</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>687</Location_Id>
+<Location>Scarborough</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>688</Location_Id>
+<Location>Scarsdale, NY</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>689</Location_Id>
+<Location>Schenectady, NY</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>690</Location_Id>
+<Location>Scone Palace, Perth</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>691</Location_Id>
+<Location>Scotland</Location>
+<CountOfLocation>241</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>692</Location_Id>
+<Location>Scranton, PA</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>693</Location_Id>
+<Location>Searsport, ME</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>694</Location_Id>
+<Location>Seattle, WA</Location>
+<CountOfLocation>52</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>978</Location_Id>
+<Location>Seine-et-Oise</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>695</Location_Id>
+<Location>Serlby Hall</Location>
+<CountOfLocation>92</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>696</Location_Id>
+<Location>Sevenoaks</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>697</Location_Id>
+<Location>Shandon, Scotland</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>698</Location_Id>
+<Location>Shawlands Farm, Winchester</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>699</Location_Id>
+<Location>Sheffield</Location>
+<CountOfLocation>169</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>700</Location_Id>
+<Location>Shelburne, VT</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>701</Location_Id>
+<Location>Sherfield Court, Basingstoke</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>702</Location_Id>
+<Location>Sherfield-on-Loddon, Hants</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>703</Location_Id>
+<Location>Shillands House, Exeter</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>704</Location_Id>
+<Location>Shipston on Stour</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>705</Location_Id>
+<Location>Shreveport, LA</Location>
+<CountOfLocation>54</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>895</Location_Id>
+<Location>Shropshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>706</Location_Id>
+<Location>Shrubland Vista, Suffolk</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>707</Location_Id>
+<Location>Shugborough, Staffs</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>708</Location_Id>
+<Location>Silchester Hall, Berks</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>709</Location_Id>
+<Location>Sizergh Castle</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>935</Location_Id>
+<Location>Slane, Co. Meath</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>710</Location_Id>
+<Location>Somerley, Hants</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>711</Location_Id>
+<Location>Somerset</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>712</Location_Id>
+<Location>Somerville, NJ</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>713</Location_Id>
+<Location>Sorn Castle</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>947</Location_Id>
+<Location>Sotterley Hall, Suffolk</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>714</Location_Id>
+<Location>South Africa</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>900</Location_Id>
+<Location>South Hadley, Massachusetts</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>715</Location_Id>
+<Location>Southampton</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>716</Location_Id>
+<Location>Southampton, NY</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>717</Location_Id>
+<Location>Southend-on-Sea, Essex</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>718</Location_Id>
+<Location>Spains Hall, Essex</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>719</Location_Id>
+<Location>Spokane, WA</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>720</Location_Id>
+<Location>Springfield, MA</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>721</Location_Id>
+<Location>Springfield, MO</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>957</Location_Id>
+<Location>Squerrye&apos;s Court, Kent</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>723</Location_Id>
+<Location>St. Andrews</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>722</Location_Id>
+<Location>St. Andrew&apos;s</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>724</Location_Id>
+<Location>St. Giles&apos;s House, Dorset</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>725</Location_Id>
+<Location>St. Louis, MO</Location>
+<CountOfLocation>148</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>726</Location_Id>
+<Location>St. Peter Port, Guernsey</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>727</Location_Id>
+<Location>St. Petersburg, FL</Location>
+<CountOfLocation>27</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>728</Location_Id>
+<Location>St. Petersburg, Russia</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>729</Location_Id>
+<Location>Stafford</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>730</Location_Id>
+<Location>Staffs</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>731</Location_Id>
+<Location>Stamford, CT</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>910</Location_Id>
+<Location>Stanford Hall</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>732</Location_Id>
+<Location>Stanford, CA</Location>
+<CountOfLocation>354</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>733</Location_Id>
+<Location>Stanton Harcourt, Oxon</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>734</Location_Id>
+<Location>Stanton House, Wilts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>735</Location_Id>
+<Location>Stockbridge, MA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>736</Location_Id>
+<Location>Stockholm</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>737</Location_Id>
+<Location>Stoke-on-Trent</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>738</Location_Id>
+<Location>Stoneleigh Abbey, Kenilworth</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>739</Location_Id>
+<Location>Stonor Park, Oxon</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>740</Location_Id>
+<Location>Storrs, CT</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>741</Location_Id>
+<Location>Stourhead, Wilts</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>742</Location_Id>
+<Location>Stowe House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>970</Location_Id>
+<Location>Stow-on-the-Wold, Glos</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>743</Location_Id>
+<Location>Strafford</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>744</Location_Id>
+<Location>Strasbourg</Location>
+<CountOfLocation>6</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>745</Location_Id>
+<Location>Stratfield Saye House, Reading</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>746</Location_Id>
+<Location>Stratford-upon-Avon</Location>
+<CountOfLocation>138</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>747</Location_Id>
+<Location>Stuttgart</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>748</Location_Id>
+<Location>Sudbury Hall, Derby</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>749</Location_Id>
+<Location>Sudbury, Suffolk</Location>
+<CountOfLocation>25</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>750</Location_Id>
+<Location>Sudeley Castle, Glos</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>915</Location_Id>
+<Location>Sudley House, Liverpool</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>751</Location_Id>
+<Location>Suffolk</Location>
+<CountOfLocation>44</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>752</Location_Id>
+<Location>Sunderland Hall, Selk</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>753</Location_Id>
+<Location>Surrey</Location>
+<CountOfLocation>46</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>754</Location_Id>
+<Location>Sussex</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>755</Location_Id>
+<Location>Swaffam</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>756</Location_Id>
+<Location>Swansea</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>757</Location_Id>
+<Location>Swarthmore, PA</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>758</Location_Id>
+<Location>Sweden</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>759</Location_Id>
+<Location>Swindon</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>760</Location_Id>
+<Location>Switzerland</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>761</Location_Id>
+<Location>Swynford Paddocks, Camb</Location>
+<CountOfLocation>20</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>762</Location_Id>
+<Location>Swynnerton Park, Staffs</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>763</Location_Id>
+<Location>Sydney</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>764</Location_Id>
+<Location>Sydney, Australia</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>765</Location_Id>
+<Location>Syon House, London</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>766</Location_Id>
+<Location>Syracuse, NY</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>767</Location_Id>
+<Location>Tabley House, Cheshire</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>943</Location_Id>
+<Location>Tangiers</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>768</Location_Id>
+<Location>Tatton Park</Location>
+<CountOfLocation>49</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>769</Location_Id>
+<Location>Tavool, Isle of Mull</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>770</Location_Id>
+<Location>Tempe, AZ</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>771</Location_Id>
+<Location>Temple House, War</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>772</Location_Id>
+<Location>Tempsford Hall</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>773</Location_Id>
+<Location>Terre Haute, IN</Location>
+<CountOfLocation>51</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>774</Location_Id>
+<Location>The Garden House, Saltwood</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>775</Location_Id>
+<Location>The Hague</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>776</Location_Id>
+<Location>The Hirsel, Coldstream, Berw</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>777</Location_Id>
+<Location>The Manor House, Herts</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>778</Location_Id>
+<Location>The Manor House, Somerset</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>779</Location_Id>
+<Location>The Old House, Hants</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>780</Location_Id>
+<Location>The Vyne, Basingstoke</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>781</Location_Id>
+<Location>Thirlestane Castle, Scotland</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>782</Location_Id>
+<Location>Thornham Hall</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>783</Location_Id>
+<Location>Thornwood, NY</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>784</Location_Id>
+<Location>Thorton Manor, Ches</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>785</Location_Id>
+<Location>Tokyo, Japan</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>786</Location_Id>
+<Location>Toledo, OH</Location>
+<CountOfLocation>156</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>787</Location_Id>
+<Location>Torbay</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>916</Location_Id>
+<Location>Torino, Italy</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>788</Location_Id>
+<Location>Toronto</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>789</Location_Id>
+<Location>Toronto, Canada</Location>
+<CountOfLocation>186</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>790</Location_Id>
+<Location>Torquay</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>791</Location_Id>
+<Location>Tregothnan, Truro</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>792</Location_Id>
+<Location>Trematon Castle, Cornwall</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>793</Location_Id>
+<Location>Trewyn</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>794</Location_Id>
+<Location>Trieste, Italy</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>795</Location_Id>
+<Location>Truro</Location>
+<CountOfLocation>21</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>796</Location_Id>
+<Location>Tucson, AZ</Location>
+<CountOfLocation>19</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>941</Location_Id>
+<Location>Tullynally House, Westmeath</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>797</Location_Id>
+<Location>Tulsa, OK</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>798</Location_Id>
+<Location>Tunbridge Wells</Location>
+<CountOfLocation>30</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>799</Location_Id>
+<Location>Twining</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>800</Location_Id>
+<Location>TX</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>801</Location_Id>
+<Location>Tyinghame, Prestonkirk</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>802</Location_Id>
+<Location>Tyringham</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>803</Location_Id>
+<Location>Uckfield</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>804</Location_Id>
+<Location>UK</Location>
+<CountOfLocation>3181</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>805</Location_Id>
+<Location>University Park, PA</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>806</Location_Id>
+<Location>unknown</Location>
+<CountOfLocation>69</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>949</Location_Id>
+<Location>Uppark, Hampshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>807</Location_Id>
+<Location>Upperville, VA</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>808</Location_Id>
+<Location>Upton Grey Lodge</Location>
+<CountOfLocation>37</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>809</Location_Id>
+<Location>Upton Hall, Northants</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>810</Location_Id>
+<Location>Upton House, Oxon</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>811</Location_Id>
+<Location>USA</Location>
+<CountOfLocation>45</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>812</Location_Id>
+<Location>Utica, NY</Location>
+<CountOfLocation>24</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>813</Location_Id>
+<Location>VA</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>814</Location_Id>
+<Location>Vancouver, Canada</Location>
+<CountOfLocation>36</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>815</Location_Id>
+<Location>Vienna</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>816</Location_Id>
+<Location>Waddesdon Manor</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>817</Location_Id>
+<Location>Wadebridge, Cornwall</Location>
+<CountOfLocation>7</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>818</Location_Id>
+<Location>Wakefield</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>819</Location_Id>
+<Location>Wales</Location>
+<CountOfLocation>14</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>820</Location_Id>
+<Location>Wallington Hall</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>821</Location_Id>
+<Location>Waltham, MA</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>822</Location_Id>
+<Location>Walthamstow, Essex</Location>
+<CountOfLocation>23</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>823</Location_Id>
+<Location>Wardom Castle</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>824</Location_Id>
+<Location>Wardour Castle</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>825</Location_Id>
+<Location>Warwick</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>930</Location_Id>
+<Location>Warwickshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>826</Location_Id>
+<Location>Washington, DC</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>827</Location_Id>
+<Location>Waterville, ME</Location>
+<CountOfLocation>15</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>828</Location_Id>
+<Location>Watford</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>829</Location_Id>
+<Location>Watford, Herts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>830</Location_Id>
+<Location>Welbeck</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>964</Location_Id>
+<Location>Welbeck Woodhouse, Notts</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>831</Location_Id>
+<Location>Wellesley, MA</Location>
+<CountOfLocation>41</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>832</Location_Id>
+<Location>Wellington, NZ</Location>
+<CountOfLocation>48</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>833</Location_Id>
+<Location>Welshpool</Location>
+<CountOfLocation>20</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>834</Location_Id>
+<Location>West Court House, Berks</Location>
+<CountOfLocation>11</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>835</Location_Id>
+<Location>West Farleigh</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>836</Location_Id>
+<Location>West Palm Beach, FL</Location>
+<CountOfLocation>16</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>837</Location_Id>
+<Location>West Point, NY</Location>
+<CountOfLocation>27</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>838</Location_Id>
+<Location>West Wycombe Park</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>839</Location_Id>
+<Location>Westminster</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>840</Location_Id>
+<Location>Weston Park</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>841</Location_Id>
+<Location>Whitminster House, Glos</Location>
+<CountOfLocation>18</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>842</Location_Id>
+<Location>Wichita, KS</Location>
+<CountOfLocation>146</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>843</Location_Id>
+<Location>Wightwick Manor</Location>
+<CountOfLocation>84</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>844</Location_Id>
+<Location>Willenhall, West Midlands</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>845</Location_Id>
+<Location>Willey Park</Location>
+<CountOfLocation>105</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>846</Location_Id>
+<Location>Williamsburg, VA</Location>
+<CountOfLocation>30</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>847</Location_Id>
+<Location>Williamstown, MA</Location>
+<CountOfLocation>192</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>848</Location_Id>
+<Location>Wilmington, DE</Location>
+<CountOfLocation>100</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>849</Location_Id>
+<Location>Wilton House</Location>
+<CountOfLocation>66</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>894</Location_Id>
+<Location>Wiltshire</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>850</Location_Id>
+<Location>Wimbledon Village</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>851</Location_Id>
+<Location>Wimbledon, Surrey</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>852</Location_Id>
+<Location>Wimborne, Dorset</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>853</Location_Id>
+<Location>Wimpole Hall</Location>
+<CountOfLocation>9</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>854</Location_Id>
+<Location>Wimpole Hall, Cambs</Location>
+<CountOfLocation>3</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>855</Location_Id>
+<Location>Winchester</Location>
+<CountOfLocation>5</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>856</Location_Id>
+<Location>Windsor</Location>
+<CountOfLocation>51</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>857</Location_Id>
+<Location>Winnetka, IL</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>858</Location_Id>
+<Location>Winnipeg, Canada</Location>
+<CountOfLocation>59</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>859</Location_Id>
+<Location>Winston-Salem, NC</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>860</Location_Id>
+<Location>Winter Park, FL</Location>
+<CountOfLocation>12</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>861</Location_Id>
+<Location>Winterthur, DE</Location>
+<CountOfLocation>37</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>862</Location_Id>
+<Location>Wirral, Ches</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>863</Location_Id>
+<Location>Woburn</Location>
+<CountOfLocation>2</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>864</Location_Id>
+<Location>Woburn Abbey</Location>
+<CountOfLocation>42</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>906</Location_Id>
+<Location>Wolterton Park, Norfolk</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>865</Location_Id>
+<Location>Wolverhampton</Location>
+<CountOfLocation>43</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>866</Location_Id>
+<Location>Woodbastwick Hall</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>867</Location_Id>
+<Location>Worcester</Location>
+<CountOfLocation>8</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>868</Location_Id>
+<Location>Worcester, MA</Location>
+<CountOfLocation>124</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>869</Location_Id>
+<Location>Worcs</Location>
+<CountOfLocation>4</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>870</Location_Id>
+<Location>Wordsworth House</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>871</Location_Id>
+<Location>Worthing</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>872</Location_Id>
+<Location>Wragby, W. Riding, Yorks</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>873</Location_Id>
+<Location>Wrotham Park, Herts</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>874</Location_Id>
+<Location>Wurzburg</Location>
+<CountOfLocation>1</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>913</Location_Id>
+<Location>Wynyard Park</Location>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>875</Location_Id>
+<Location>York</Location>
+<CountOfLocation>48</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>876</Location_Id>
+<Location>Yorks</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+<T_Location_List>
+<Location_Id>877</Location_Id>
+<Location>Zurich</Location>
+<CountOfLocation>10</CountOfLocation>
+</T_Location_List>
+</dataroot>

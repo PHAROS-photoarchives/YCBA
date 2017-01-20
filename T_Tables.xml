@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="T_Tables.xsd" generated="2017-01-20T12:48:47">
+<T_Tables>
+<ID>1</ID>
+<Table_Name>T_Category_List</Table_Name>
+<Table_Description>Category</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>2</ID>
+<Table_Name>T_Class_List</Table_Name>
+<Table_Description>Class</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>3</ID>
+<Table_Name>T_Location_List</Table_Name>
+<Table_Description>Location</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>4</ID>
+<Table_Name>T_Material_List</Table_Name>
+<Table_Description>Material</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>5</ID>
+<Table_Name>T_Medium_List</Table_Name>
+<Table_Description>Medium</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>6</ID>
+<Table_Name>T_Member_List</Table_Name>
+<Table_Description>Memberships</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>7</ID>
+<Table_Name>T_Owner_List</Table_Name>
+<Table_Description>Owners</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>9</ID>
+<Table_Name>T_Thesaurus</Table_Name>
+<Table_Description>Subjects</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>10</ID>
+<Table_Name>T_Size_List</Table_Name>
+<Table_Description>Size</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>11</ID>
+<Table_Name>T_Art_Ref_List</Table_Name>
+<Table_Description>Artist References</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>12</ID>
+<Table_Name>T_Ref_Prefix</Table_Name>
+<Table_Description>Prefix for References</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>13</ID>
+<Table_Name>T_Source_Prefix</Table_Name>
+<Table_Description>Prefix for Sources</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>14</ID>
+<Table_Name>T_Display_Prefix</Table_Name>
+<Table_Description>Prefix for Display Dates</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>15</ID>
+<Table_Name>T_Staff</Table_Name>
+<Table_Description>Staff - Temp file names</Table_Description>
+</T_Tables>
+<T_Tables>
+<ID>16</ID>
+<Table_Name>T_Nationality</Table_Name>
+<Table_Description>Nationality</Table_Description>
+</T_Tables>
+</dataroot>
